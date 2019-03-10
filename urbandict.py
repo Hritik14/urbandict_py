@@ -17,4 +17,3 @@ def _run_urbandict(search):
 
 def urbandict(word):
     return _run_urbandict(word)
-print(urbandict("hey"))
